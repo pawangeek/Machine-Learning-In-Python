@@ -8,3 +8,6 @@
 * [Outlier Detection and Feature Scaling](https://nbviewer.jupyter.org/github/pawangeek/my_machine-learning/blob/master/Clustering/5.%20Outlier%20Detection%20and%20Feature%20Scaling.ipynb)
 * [K-means with mini batch](https://nbviewer.jupyter.org/github/pawangeek/my_machine-learning/blob/master/Clustering/6.%20Kmeans%20by%20mini-batches.ipynb)
 * [Gaussian Mixture Model](https://nbviewer.jupyter.org/github/pawangeek/my_machine-learning/blob/master/Clustering/7.%20Gaussian%20mixture%20model.ipynb)
+
+## Articles
+* [Clustering clearly explained](https://medium.com/@pawanjain.432/clustering-clearly-explained-5561642ec20c)
