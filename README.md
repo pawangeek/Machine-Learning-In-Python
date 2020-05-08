@@ -10,6 +10,7 @@
 * [Gaussian Mixture Model](https://nbviewer.jupyter.org/github/pawangeek/my_machine-learning/blob/master/Clustering/7.%20Gaussian%20mixture%20model.ipynb)
 
 ## Articles
-* [Clustering clearly explained](https://medium.com/@pawanjain.432/clustering-clearly-explained-5561642ec20c)
+* [Clustering clearly explained](https://towardsdatascience.com/clustering-clearly-explained-5561642ec20c)
 * [Hierarchical clustering Clearly Explained](https://towardsdatascience.com/https-towardsdatascience-com-hierarchical-clustering-6f3c98c9d0ca)
 * [Gaussian Mixture Model](https://towardsdatascience.com/best-clustering-practice-gaussian-mixture-model-gmm-b7158d6c3337)
+* [DBSCAN Clustering Best Practices](https://towardsdatascience.com/dbscan-clustering-best-practices-38de9cf57610)
