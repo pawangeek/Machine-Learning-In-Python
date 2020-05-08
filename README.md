@@ -11,3 +11,5 @@
 
 ## Articles
 * [Clustering clearly explained](https://medium.com/@pawanjain.432/clustering-clearly-explained-5561642ec20c)
+* [Hierarchical clustering Clearly Explained](https://towardsdatascience.com/https-towardsdatascience-com-hierarchical-clustering-6f3c98c9d0ca)
+* [Gaussian Mixture Model](https://towardsdatascience.com/best-clustering-practice-gaussian-mixture-model-gmm-b7158d6c3337)
