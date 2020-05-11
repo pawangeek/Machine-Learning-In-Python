@@ -14,3 +14,4 @@
 * [Hierarchical clustering Clearly Explained](https://towardsdatascience.com/https-towardsdatascience-com-hierarchical-clustering-6f3c98c9d0ca)
 * [Gaussian Mixture Model](https://towardsdatascience.com/best-clustering-practice-gaussian-mixture-model-gmm-b7158d6c3337)
 * [DBSCAN Clustering Best Practices](https://towardsdatascience.com/dbscan-clustering-best-practices-38de9cf57610)
+* [BIRCH Clustering Clearly Explained](https://towardsdatascience.com/birch-clustering-clearly-explained-ffd75f07e5ed)
